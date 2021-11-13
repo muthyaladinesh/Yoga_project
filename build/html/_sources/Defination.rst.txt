@@ -1,0 +1,11 @@
+.. _RST Defination:
+
+Repository
+===========
+
+
+
+Definaiton 
+----------
+
+*In GitLab, files are stored in a repository. A repository 
